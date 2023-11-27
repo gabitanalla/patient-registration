@@ -1,0 +1,12 @@
+email-validator==2.1.0.post1
+fastapi==0.104.1
+mysql-connector-python==8.2.0
+mysql-connector-python-rf==2.2.2
+pydantic==2.5.2
+pydantic_core==2.14.5
+pydantic-extra-types==2.1.0
+pydantic-settings==2.1.0
+PyMySQL==1.1.0
+python-dotenv==1.0.0
+python-multipart==0.0.6
+uvicorn==0.24.0.post1
